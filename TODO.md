@@ -1,9 +1,9 @@
-# TODO
+# Task list
 
 ## Now
 
-- Inget pågående.
+- Nothing in progress.
 
 ## Done (recent)
 
-- [x] Repodokumentation och GitHub-metadata på plats (2026-11-04)
+- [x] Repo docs and GitHub metadata are in place (2026-11-04)

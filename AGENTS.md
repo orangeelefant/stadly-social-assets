@@ -1,19 +1,19 @@
 # AGENTS.md
 
-Instruktioner för automationsagenter (Claude Code, Codex) i det här repot.
+Instructions for automation agents (Claude Code, Codex) in this repo.
 
-## Repot
+## The repo
 
-- **Namn:** `orangeelefant/stadly-social-assets`
-- **Syfte:** Bildhotell för Städlys inlägg i sociala medier. Bilderna serveras via jsDelivr från `main`.
-- **Drift:** Ingen deploy.
+- **Name:** `orangeelefant/stadly-social-assets`
+- **Purpose:** An image store for the social media posts of Städly. jsDelivr serves the images from `main`.
+- **Operation:** No deploy.
 
-## Husregler
+## House rules
 
-- Byt aldrig namn på, flytta eller ta bort en bild. Publicerade och schemalagda inlägg pekar på URL:en.
-- Pusha direkt till `main`. En logisk ändring per commit.
-- Inga `.env`-filer, nycklar eller inloggningsuppgifter i repot.
+- Never rename, move or delete an image. Published and scheduled posts point to the URL.
+- Push directly to `main`. Make one logical change in each commit.
+- Never put `.env` files, keys or credentials in the repo.
 
-## Efter varje ändring
+## After every change
 
-En punkt under `## [Unreleased]` i `CHANGELOG.md` och avstämd `TODO.md`, i samma commit.
+Add one bullet under `## [Unreleased]` in `CHANGELOG.md`. Correct `TODO.md`. Do both in the same commit.

@@ -6,6 +6,7 @@ Alla noterbara ändringar dokumenteras här. Formatet följer löst
 ## [Unreleased]
 
 - README, AGENTS, CLAUDE, CHANGELOG och TODO tillagda. GitHub-beskrivning, hemsida och topics satta. Inga bilder ändrade (2026-11-04).
+- Docs: internal text rewritten to ASD-STE100 English.
 
 ## 2026-09-02
 

@@ -1,24 +1,24 @@
 # CLAUDE.md
 
-Projektkontext för Claude Code-sessioner i det här repot.
+Project context for Claude Code sessions in this repo.
 
-## Vad det är
+## What it is
 
-Bildhotell för Städlys inlägg i sociala medier, serverat via jsDelivr. Ingen webbsida och ingen build.
+An image store for the social media posts of Städly, served through jsDelivr. It has no web page and no build.
 
 ## Layout
 
-- 22 JPG-filer (1080 × 1080 px) i roten: `vecka-01` till `vecka-20` plus två `samhalle-`-bilder.
+- 22 JPG files (1080 × 1080 px) in the root: `vecka-01` to `vecka-20` and two `samhalle-` images.
 
-## Kommandon
+## Commands
 
-Inga. Lägg till en bild, committa, pusha.
+None. Add an image, commit, push.
 
-## Klart betyder
+## Done means
 
-1. Nya bilder nås på `https://cdn.jsdelivr.net/gh/orangeelefant/stadly-social-assets@main/<filnamn>`.
-2. `CHANGELOG.md` uppdaterad under `[Unreleased]`.
-3. `TODO.md` avstämd.
-4. Committat och pushat till `main`.
+1. New images are available at `https://cdn.jsdelivr.net/gh/orangeelefant/stadly-social-assets@main/<filnamn>`.
+2. `CHANGELOG.md` has a new line under `[Unreleased]`.
+3. `TODO.md` is correct.
+4. The change is committed and pushed to `main`.
 
-Repot renderar inget gränssnitt, så det har ingen `DESIGN.md`.
+The repo renders no interface, so it has no `DESIGN.md`.
